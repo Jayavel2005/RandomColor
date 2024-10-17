@@ -1,0 +1,46 @@
+
+
+
+input[type = "text"]{
+    width: 300px;
+    height: 300px;
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 400px;
+    height: 500px;
+    
+}
+
+.colorContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    margin: 10px 0px;
+    height: 80vh;
+}
+
+.colorContainer div{
+    width: 200px;
+    border-radius: 10px;
+    height: 100%;
+    
+}
+
+.color1{
+    background-color: rgb(0, 198, 198);
+}
+.color2{
+    background-color: #ff5a5f;
+}
+.color3{
+    background-color: #B14E51;
+}
+.color4{
+    background-color: #92AD94;
+}
+.color5{
+    background-color: #E6AA68;
+}
+.color6{
+    background-color: #D72483;
+}
